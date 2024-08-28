@@ -1,5 +1,5 @@
 # ararinha
 
-Figura
+Figura2
 
-![](https://drive.google.com/file/d/1sSbMFNIZXjlS5TG5l6UJki01h-JFhpAO/view?usp=sharing)
+![](pictures/_4e92fb00-2f13-413d-b945-c35e082a5154.jpg)
