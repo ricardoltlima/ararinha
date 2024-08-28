@@ -2,4 +2,4 @@
 
 Figura
 
-![](C:\Users\ricar\OneDrive\Documentos\Ricardo\Ararinha\_0ac7bb02-d409-450d-8204-e8a28e0099ea.jpg)
+![](https://drive.google.com/file/d/1sSbMFNIZXjlS5TG5l6UJki01h-JFhpAO/view?usp=sharing)
