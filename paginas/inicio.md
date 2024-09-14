@@ -12,7 +12,7 @@ A pagina principal sera mostrada uma vez que a pessoa digite www.ararinhabrazil.
 
 ## Icones do rodapé
 
-[Icones do rodape](../paginas/icones_rodape/rodape.md "Icones do rodapé")
+[Icones do rodape](../features/icones_rodape/rodape.md "Icones do rodapé")
 
 ## Planos e Pagamentos
 

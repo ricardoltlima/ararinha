@@ -4,7 +4,7 @@
 <img src="pictures/logo.jpg" style="height: 10em;">
 
 
-## Pagina Principal [<img src="pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](./paginas/inicio_com_cadastro/inicio_com_cadastro.md)
+## Pagina Principal [<img src="pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](./paginas/pagina_principal/pagina_principal.md)
 
 Na pagina principal o usuario vai ver o feed principal de eventos, mensagens e atividades da comunidade, 
 noticias locais e anuncios de servicos.
