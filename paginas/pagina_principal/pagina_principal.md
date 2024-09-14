@@ -7,6 +7,6 @@ A diferenca entre as duas paginas eh que o usuario sem cadastro nao pode mandar 
 outros participantes.
 
 <p align="center">
-  <img src="usuario_com_cadastro/pictures/usuario_com_cadastro.png" width="30%" style="margin-right: 10px;"/>
-  <img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="30%"/>
+  <img src="usuario_com_cadastro/pictures/usuario_com_cadastro.png" width="45%" style="margin-right: 5px;"/>
+  <img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="45%"/>
 </p>
