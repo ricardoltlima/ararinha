@@ -3,7 +3,7 @@
 A pagina principal sem cadastro mostra o feed principal, mas o usuário nao tem direito de fazer comentarios.
 Todos os campos e botoes sao desabilitados.
 
-### Icone usuario <img src="pictures/usuario_sem_cadastro.jpg" alt="Placeholder Image" style="height: 1em; vertical-align: vertical-align;">
+### Icone usuario <img src="pictures/logo_usuario.jpg" alt="Placeholder Image" style="height: 1em; vertical-align: vertical-align;">
 
 O icone do usuario aparece vazio. Uma vez clicado, a pagina de [login](../login/login.md) aparece.
 
