@@ -1,8 +1,8 @@
 # Arara Brazil
 
-
+<p align="center">
 <img src="pictures/logo.jpg" style="height: 10em;" alt="Logo">
-
+</p>
 
 ## [Pagina Principal <img src="pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](./paginas/pagina_principal/pagina_principal.md)
 
