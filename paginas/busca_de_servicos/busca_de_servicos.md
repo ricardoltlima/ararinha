@@ -11,13 +11,12 @@ o teclado virtual se torna disponivel.
 
 ### Busca de Servicos para Usuarios sem Cadastro
 
+![](pictures/busca_sem_cadastro.jpg)
 
 #### Icone Home <img src="../../pictures/home.jpg" alt="Placeholder Image" style="height: 1em; vertical-align: vertical-align;">
 
-Volta para a [Pagina Principal <img src="../../pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](../../paginas/pagina_principal/pagina_principal.md)
-
-![](pictures/busca_sem_cadastro.jpg)
-
+Volta para a 
+[Pagina Principal <img src="../../pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](../../paginas/pagina_principal/pagina_principal.md)
 
 #### Icone Sign Up/Log in
 
