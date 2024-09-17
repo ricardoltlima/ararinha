@@ -14,7 +14,7 @@ noticias locais e anuncios de servicos.
 A pagina pessoal contem o perfil do usuario. Essa pagina contem a foto do perfil, uma sessao de 
 servicos salvos, servicos oferecidos, Postagens e Contatos. 
 
-## [Busca de Servicos <img src="pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](./paginas/inicio_com_cadastro/inicio_com_cadastro.md)
+## [Busca de Servicos <img src="pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](./paginas/busca_de_servicos/busca_de_servicos.md)
 
 A tela de busca de servicos mostra os servicos mais procurados da comunidade.
 
