@@ -24,4 +24,4 @@ Uma vez clicado, o pop-up de [login](../../popups/login/login.md) aparece.
 
 ### Grupos de servicos
 
-O grupo de servicos leva ate a pagina com todos os prestadores de servico
+O grupo de servicos leva ate a pagina com todos os prestadores [daquele servico especifico](busca_de_servicos_por_servico.md) 
