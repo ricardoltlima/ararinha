@@ -10,17 +10,63 @@ outros participantes.
 ## [Pagina Principal Sem Cadastro <img src="../../pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](usuario_sem_cadastro/usuario_sem_cadastro.md)
 
 Mesmo sem ter cadastro, a pessoa que tiver curiosidade pode acessar a plataforma. Area de mensagens eh desabilitada.
-Nao ha icones de acao (adicionar, compartilhar, tres pontos).
 
-<img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="45%" alt="Sem Cadastro"/>
+<div align=center>
+    <img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="345" alt="Sem Cadastro"/>
+</div>
+
+## Detalhes da pagina principal:
+
+### Cabecalho
+
+- Campo de busca - Ao clicar, abre-se a pagina de busca.
+- Icone Sign Up/Log In - Ao clicar, abre-se a pagina de login.
+
+### Propaganda
+
+A propaganda pode ter videos ou apenas fotos. Ao clicar, a midia ira se abrir num popup.
+* Campo obrigatorio: Nome do servico.
+* Campos opcionais: Endereco(s), contatos.
+
+Ao clicar na figura menor ou no nome do servico, o usuario sera direcionado a pagina do servico. <br><br>
+Ao clicar no Whatsapp do servico, o whatsapp ira se abrir no celular do usuario.<br><br>
+Ao clicar no icone de mensagem ou adicionar servico, o usuario sera direcionado a pagina de login.<br><br>
+Ao clicar no icone de compartilhar, um popup ira se abrir com opcoes de compartilhamento (Whatsapp, Instagram, Facebook, Copiar link). 
+
+### Posts de usuarios
+
+O post do usuario eh composto de:
+
+* Foto do usuario - Ao clicar, abre-se a pagina daquele usuario
+* Nome do usuario - Ao clicar, abre-se a pagina daquele usuario
+* Tres pontos (flag de comportamento indevido) - O post sera enviado a administracao
+* Bookmark - Ao clicar, abre-se a pagina de login.
+* Thead de mensagens - Abre-se o thread de mensagens
+* Compartilhamento do post - Um popup ira se abrir com opcoes de compartilhamento (Whatsapp, Instagram, Facebook, Copiar link).
+* Icone de login - Ao clicar, abre-se a pagina de login.
+* Campo de mensagem - Desabilitado.
+
+### Rodape
+
+O Rodape possui cinco icones:
+
+* Home - Ao clicar, o usuario sera direcionado ao feed principal
+* Mensagens - Desabilitado
+* Criar Post - Desabilitado
+* Notificacoes - Desabilitado
+* Explore - Ao clicar, o usuario sera direcionado a pagina de Explore
+
 
 ## [Pagina Principal Com Cadastro <img src="../../pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](usuario_com_cadastro/usuario_com_cadastro.md)
 
 O usuario cadastrado tem total acesso a todos os recursos da plataforma.
 
-<img src="usuario_com_cadastro/pictures/usuario_com_cadastro.png" width="45%" style="margin-right: 5px;" alt="Com Cadastro"/>
+<div align=center>
+    <img src="usuario_com_cadastro/pictures/usuario_com_cadastro.jpg" width="45%" style="margin-right: 5px;" alt="Com Cadastro"/>
+</div>
 
-Detalhes da pagina principal:
+
+## Detalhes da pagina principal:
 
 ### Cabecalho
 
