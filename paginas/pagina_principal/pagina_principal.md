@@ -7,7 +7,7 @@ A diferenca entre as duas paginas eh que o usuario sem cadastro nao pode mandar 
 outros participantes.
 
 
-## [Pagina Principal Sem Cadastro <img src="../../pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](usuario_sem_cadastro/usuario_sem_cadastro.md)
+## [Pagina Principal Sem Cadastro](usuario_sem_cadastro/usuario_sem_cadastro.md)
 
 Mesmo sem ter cadastro, a pessoa que tiver curiosidade pode acessar a plataforma. Area de mensagens eh desabilitada.
 
@@ -57,7 +57,7 @@ O Rodape possui cinco icones:
 * Explore - Ao clicar, o usuario sera direcionado a pagina de Explore
 
 
-## [Pagina Principal Com Cadastro <img src="../../pictures/external-link-icon.png" style="height: 7%; width:7%; vertical-align:vertical-align;">](usuario_com_cadastro/usuario_com_cadastro.md)
+## [Pagina Principal Com Cadastro](usuario_com_cadastro/usuario_com_cadastro.md)
 
 O usuario cadastrado tem total acesso a todos os recursos da plataforma.
 
