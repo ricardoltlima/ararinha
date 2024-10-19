@@ -11,9 +11,9 @@ outros participantes.
 
 Mesmo sem ter cadastro, a pessoa que tiver curiosidade pode acessar a plataforma. Area de mensagens eh desabilitada.
 
-<div align=center>
-    <img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="345" alt="Sem Cadastro"/>
-</div>
+<div style="display: flex; align-items: center; justify-content: left;">
+
+<div style="width: 50%;">
 
 ## Detalhes da pagina principal:
 
@@ -31,7 +31,7 @@ A propaganda pode ter videos ou apenas fotos. Ao clicar, a midia ira se abrir nu
 Ao clicar na figura menor ou no nome do servico, o usuario sera direcionado a pagina do servico. <br><br>
 Ao clicar no Whatsapp do servico, o whatsapp ira se abrir no celular do usuario.<br><br>
 Ao clicar no icone de mensagem ou adicionar servico, o usuario sera direcionado a pagina de login.<br><br>
-Ao clicar no icone de compartilhar, um popup ira se abrir com opcoes de compartilhamento (Whatsapp, Instagram, Facebook, Copiar link). 
+Ao clicar no icone de compartilhar, um popup ira se abrir com opcoes de compartilhamento (Whatsapp, Instagram, Facebook, Copiar link).
 
 ### Posts de usuarios
 
@@ -56,21 +56,27 @@ O Rodape possui cinco icones:
 * Notificacoes - Desabilitado
 * Explore - Ao clicar, o usuario sera direcionado a pagina de Explore
 
+</div>
+
+<div style="width: 50%; text-align: center;">
+   <img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="345" alt="Sem Cadastro"/>
+</div>
+
+</div>
 
 ## [Pagina Principal Com Cadastro](usuario_com_cadastro/usuario_com_cadastro.md)
 
 O usuario cadastrado tem total acesso a todos os recursos da plataforma.
 
-<div align=center>
-    <img src="usuario_com_cadastro/pictures/usuario_com_cadastro.jpg" width="45%" style="margin-right: 5px;" alt="Com Cadastro"/>
-</div>
+<div style="display: flex; align-items: center; justify-content: left;">
 
+<div style="width: 50%;">
 
 ## Detalhes da pagina principal:
 
 ### Cabecalho
 
-- Foto do perfil - Ao clicar, abre-se a pagina pessoal. 
+- Foto do perfil - Ao clicar, abre-se a pagina pessoal.
 - Campo de busca - Ao clicar, abre-se a pagina de busca.
 - Icone de alerta - Ao clicar, abre-se a pagina de alertas.
 
@@ -83,10 +89,11 @@ O usuario cadastrado tem total acesso a todos os recursos da plataforma.
 - tres pontos - Red flag.
 - Descricao
 - Fotos e videos do servico - Ao clicar, abre-se um popup, seja foto, seja video.
-- Icone de adicionar servico - Ao clicar, o icone muda de cor, uma mensagem aparece informando que o servico foi salvo, e o servico eh salvo na lista de servicos. 
+- Icone de adicionar servico - Ao clicar, o icone muda de cor, uma mensagem aparece informando que o servico foi salvo, e o servico eh salvo na lista de servicos.
 - Icone de compartilhar servico - Ao clicar, um popup mostra como compartilhar o servico (Whatsapp, Facebook, Instagram, Copiar Link)
 - Foto do perfil - Ao clicar, abre-se a pagina pessoal.
-- Area de mensagem ao profissional. Ao clicar, abre-se o teclado virtual. Uma vez que a mensagem eh enviada, pode-se acessa-la atraves da pagina de mensagens ou do icone de mensagens no topo direito da tela. 
+- Area de mensagem ao profissional. Ao clicar, abre-se o teclado virtual. <br>
+Uma vez que a mensagem eh enviada, pode-se acessa-la atraves da pagina de mensagens ou do icone de mensagens no topo direito da tela.
 - Icone de attachment. Caso a pessoa queira enviar uma imagem ao profissional.
 - Icone de camera. Caso a pessoa queira enviar uma foto live ao profissional.
 
@@ -107,3 +114,10 @@ O usuario cadastrado tem total acesso a todos os recursos da plataforma.
 
 ### Rodape
 
+</div>
+
+<div style="width: 50%; text-align: center;">
+   <img src="usuario_com_cadastro/pictures/usuario_com_cadastro.jpg" width="344" alt="Com Cadastro"/>
+</div>
+
+</div>
