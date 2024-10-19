@@ -11,9 +11,9 @@ outros participantes.
 
 Mesmo sem ter cadastro, a pessoa que tiver curiosidade pode acessar a plataforma. Area de mensagens eh desabilitada.
 
-<div style="display: flex; align-items: center; justify-content: left;">
 
-<div style="width: 50%;">
+<div style="display: flex; width: 100%;">
+  <div style="width: 50%; text-align: left; margin-right: 20px;">
 
 ## Detalhes da pagina principal:
 
@@ -56,21 +56,20 @@ O Rodape possui cinco icones:
 * Notificacoes - Desabilitado
 * Explore - Ao clicar, o usuario sera direcionado a pagina de Explore
 
-</div>
+  </div>
+  
+  <div style="width: 50%; text-align: left;">
 
-<div style="width: 50%; text-align: center;">
-   <img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="345" alt="Sem Cadastro"/>
-</div>
+ <img src="usuario_sem_cadastro/pictures/usuario_sem_cadastro.jpg" width="345" alt="Sem Cadastro"/>
 
-</div>
+</div></div>div>
 
 ## [Pagina Principal Com Cadastro](usuario_com_cadastro/usuario_com_cadastro.md)
 
 O usuario cadastrado tem total acesso a todos os recursos da plataforma.
 
-<div style="display: flex; align-items: center; justify-content: left;">
-
-<div style="width: 50%;">
+<div style="display: flex; width: 100%;">
+  <div style="width: 50%; text-align: left; margin-right: 20px;">
 
 ## Detalhes da pagina principal:
 
@@ -114,10 +113,9 @@ Uma vez que a mensagem eh enviada, pode-se acessa-la atraves da pagina de mensag
 
 ### Rodape
 
-</div>
+  </div>
+  <div style="width: 50%; text-align: left;">
 
-<div style="width: 50%; text-align: center;">
    <img src="usuario_com_cadastro/pictures/usuario_com_cadastro.jpg" width="344" alt="Com Cadastro"/>
-</div>
 
-</div>
+</div></div>div>
