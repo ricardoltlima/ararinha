@@ -84,10 +84,15 @@ O usuario cadastrado tem total acesso a todos os recursos da plataforma.
 
 <h3> Cabecalho </h3>
 
-- Campo de busca - Ao clicar, abre-se a pagina de busca.
-- Foto do perfil - Ao clicar, abre-se uma meia pagina com as opcoes:
-  - Meu Perfil - Abre-se a pagina pessoal.
-  - Log out.
+<ul>
+<li> Campo de busca - Ao clicar, abre-se a pagina de busca. </li>
+<li> Foto do perfil - Ao clicar, abre-se uma meia pagina com as opcoes:
+  <ul>
+    <li>Meu Perfil - Abre-se a pagina pessoal.</li>
+    <li>Log out.</li>
+  </ul>
+</li>
+</ul>
 
 <h3> Propaganda </h3>
 
