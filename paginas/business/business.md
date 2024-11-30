@@ -1,13 +1,13 @@
 ## Introdução ao Negócio
 
-• Nome da Empresa: Arara Brazil
-• Localização: Orlando, FL
-• Missão: Conectar a comunidade brasileira em Orlando através de uma plataforma digital
+* Nome da Empresa: Arara Brazil
+* Localização: Orlando, FL
+* Missão: Conectar a comunidade brasileira em Orlando através de uma plataforma digital
 que divulga servicos de brasileiros, oferece informações locais, eventos e oportunidades de networking.
 
 ## Descrição do Produto/Serviço
 
-• O Que Oferecemos: Uma plataforma digital para brasileiros em Orlando, fornecendo
+* O Que Oferecemos: Uma plataforma digital para brasileiros em Orlando, fornecendo
 acesso a informações sobre servicos de brasileiros, eventos, serviços locais e oportunidades de interação social.
 
 # Problemas e solucoes

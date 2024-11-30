@@ -10,6 +10,6 @@
 
 Plano de negocios da empresa.
 
-## [Aplicativo <img src="pictures/external-link-icon.png" style="height: 3%; width:3%; vertical-align:vertical-align;">](./paginas/business/business.md)
+## [Aplicativo <img src="pictures/external-link-icon.png" style="height: 3%; width:3%; vertical-align:vertical-align;">](./paginas/aplicativo/aplicativo.md)
 
 Descricao do aplicativo.
