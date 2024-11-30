@@ -4,15 +4,30 @@
   <img src="pictures/logo.jpg" alt="Imagem" style="display: block; margin: auto;" width="50%"/>
 </p>
 
-{% tabs %}
-{% tab title="Assunto 1" %}
-Conteúdo do primeiro assunto.
-{% endtab %}
+[//]: # ({% tabs %})
 
-{% tab title="Assunto 2" %}
-Conteúdo do segundo assunto.
-{% endtab %}
-{% endtabs %}
+[//]: # ({% tab title="Business" %})
+
+## Introdução ao Negócio
+• Nome da Empresa: Arara Brazil
+• Localização: Orlando, FL
+• Missão: Conectar a comunidade brasileira em Orlando através de uma plataforma digital
+que divulga servicos de brasileiros, oferece informações locais, eventos e oportunidades de networking.
+
+## Descrição do Produto/Serviço
+• O Que Oferecemos: Uma plataforma digital para brasileiros em Orlando, fornecendo
+acesso a informações sobre servicos de brasileiros, eventos, serviços locais e oportunidades de interação social.
+
+[//]: # ({% endtab %})
+
+[//]: # ()
+[//]: # ({% tab title="Documentacao tecnica" %})
+
+[//]: # (Conteúdo do segundo assunto.)
+
+[//]: # ({% endtab %})
+
+[//]: # ({% endtabs %})
 
 
 ## [Pagina Principal <img src="pictures/external-link-icon.png" style="height: 3%; width:3%; vertical-align:vertical-align;">](./paginas/pagina_principal/pagina_principal.md)
