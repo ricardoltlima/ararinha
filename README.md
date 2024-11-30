@@ -4,13 +4,8 @@
   <img src="pictures/logo.jpg" alt="Imagem" style="display: block; margin: auto;" width="50%"/>
 </p>
 
-<!-- Início das abas -->
-<div>
-  <button onclick="openTab('tab1')">Business</button>
-  <button onclick="openTab('tab2')">Produto</button>
-</div>
+=== "Business"
 
-<div id="tab1" style="display:block;">
 ## Introdução ao Negócio
 
 • Nome da Empresa: Arara Brazil
@@ -43,8 +38,7 @@ especificidades culturais e linguísticas desta comunidade.
 3. Negócios Locais Invisíveis: Pequenos negócios brasileiros enfrentam desafios em alcançar
    seu público-alvo devido à falta de uma plataforma dedicada para promover seus
    serviços.
-4. Barreira Linguística: A maioria das plataformas de comunicação local são em inglês, o
-   que dificulta a interação para aqueles que ainda não dominam o idioma.
+4. Barreira Linguística: A maioria das plataformas de comunicação local são em inglês, dificultando a interação para aqueles que ainda não dominam o idioma.
 
 ## Proposta de Solução: Nossa plataforma visa resolver esses problemas oferecendo:
 
@@ -55,9 +49,8 @@ especificidades culturais e linguísticas desta comunidade.
 3. Promoção de Negócios Locais: Uma vitrine para pequenos negócios brasileiros
    promoverem seus produtos e serviços diretamente para a comunidade.
 
-</div>
+=== "Aplicativo"
 
-<div id="tab2" style="display:none;">
 ## [Pagina Principal <img src="pictures/external-link-icon.png" style="height: 3%; width:3%; vertical-align:vertical-align;">](./paginas/pagina_principal/pagina_principal.md)
 
 Na pagina principal o usuario vai ver o feed principal de eventos, mensagens e atividades da comunidade,
@@ -87,12 +80,3 @@ em participar da comunidade, o cadastro sera feito de forma automatica.
 
 Para fazer o cadastro de uma empresa, o usuario devera escolher um plano de pagamento
 e preencher os campos necessarios.
-</div>
-
-<script>
-  function openTab(tabName) {
-    document.getElementById('tab1').style.display = 'none';
-    document.getElementById('tab2').style.display = 'none';
-    document.getElementById(tabName).style.display = 'block';
-  }
-</script>
